@@ -4,7 +4,7 @@ import time
 import json
 
 
-filename = '/src/resources/Data.json'
+filename = '/home/vboxuser/PycharmProject/Speed Test/src/resources/json/Data.json'
 
 print("Executando o teste...")
 
@@ -25,11 +25,13 @@ formatted_time = str(time.strftime("%H:%M:%S", current_time))
 
 speed = {"date" : date, "time" : formatted_time, "download" : download, "upload" : upload, "ping" : ping}
 
-with open(filename) as f:
-    content = json.load(f)
+try:
+    with open(filename) as f:
+        content = json.load(f)
+except FileNotFoundError:
+    content = []
 
 content.append(speed)
-
 
 with open(filename, 'w') as f:
     json.dump(content, f, indent=4)
