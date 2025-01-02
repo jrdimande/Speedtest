@@ -4,7 +4,7 @@ import time
 import json
 
 
-filename = '/Data.json'
+filename = '/src/resources/Data.json'
 
 print("Executando o teste...")
 

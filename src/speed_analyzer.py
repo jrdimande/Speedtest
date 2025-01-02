@@ -1,7 +1,7 @@
 import json
 
-filename = 'files/Data.json'
-filename1 = '/home/vboxuser/PycharmProject/Speed Test/relatorio.txt'
+filename = '/src/resources/Data.json'
+filename1 = '/home/vboxuser/PycharmProject/Speed Test/src/resources/relatorio.txt
 
 with open(filename) as f:
     content = json.load(f)
