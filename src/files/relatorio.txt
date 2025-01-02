@@ -1,0 +1,110 @@
+
+Avarage Download:  1.40 Mbps  Stable = False
+Avarage Upload:  0.89 Mbps  Stable = False
+Avarage Ping:  15.66 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  1.78 Mbps  Stable = False
+Avarage Upload:  1.24 Mbps  Stable = True
+Avarage Ping:  20.52 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  1.78 Mbps  Stable = False
+Avarage Upload:  1.24 Mbps  Stable = True
+Avarage Ping:  20.52 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  3.48 Mbps  Stable = False
+Avarage Upload:  2.13 Mbps  Stable = True
+Avarage Ping:  31.91 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  1.43 Mbps  Stable = False
+Avarage Upload:  0.99 Mbps  Stable = False
+Avarage Ping:  16.41 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  4.44 Mbps  Stable = True
+Avarage Upload:  2.64 Mbps  Stable = True
+Avarage Ping:  46.84 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  0.00 Mbps  Stable = False
+Avarage Upload:  0.00 Mbps  Stable = False
+Avarage Ping:  0.00 ms  Stable = True
+Start: empyt End: empty
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  1.43 Mbps  Stable = False
+Avarage Upload:  0.99 Mbps  Stable = False
+Avarage Ping:  16.41 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  0.84 Mbps  Stable = False
+Avarage Upload:  0.53 Mbps  Stable = False
+Avarage Ping:  9.40 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  2.23 Mbps  Stable = False
+Avarage Upload:  1.54 Mbps  Stable = True
+Avarage Ping:  24.94 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-01
+
+Avarage Download:  4.81 Mbps  Stable = True
+Avarage Upload:  2.79 Mbps  Stable = True
+Avarage Ping:  52.76 ms  Stable = True
+Start: 2025-01-01 End: 2025-01-02
